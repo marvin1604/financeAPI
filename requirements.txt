@@ -1,0 +1,8 @@
+#Instalar la siguientes librerias para realizar el proyecto
+#pip install -r requirements.txt
+
+numpy
+pandas
+seaborn
+matplotlib
+yfinance
